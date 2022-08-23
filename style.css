@@ -1,0 +1,72 @@
+:root{
+  --first: color turquoise;
+  --second: color navy;
+}
+
+body{
+margin: 0%;
+}
+
+.middle-column{
+  width: 350px;
+
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+h2{
+  text-align: center;
+  font-size: 20pt;
+}
+.headername{
+  color: white;
+  text-align: center;
+  background-color: lightblue;
+  padding-bottom: 1rem;
+  padding-top: 1.75rem;
+  font-size: 25pt;
+  margin-top: 0%;
+  width: 100%;
+  border: .2rem solid black;
+  
+}
+
+h2{
+  border-top: 39x;
+  border-color: navy;
+}
+
+.weird-bar{
+  background-color: navy;
+  height: 1.7rem;
+  
+  display: flex;
+
+}
+
+.footerr{
+  background-color: lightblue;
+  height: 20px;
+  padding: 3.4rem;
+  border: .2rem solid black;
+
+}
+
+.pTag{
+  width: 330px ;
+  margin-left: 1rem;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+}
+
+.another-article{
+  margin-bottom: .3rem;
+}
+
+.right-column{
+  margin: 1rem;
+  margin-top: 3.3rem;
+  width: 250px
+}
